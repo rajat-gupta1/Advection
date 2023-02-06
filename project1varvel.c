@@ -69,7 +69,7 @@ int main(int argc, char *argv[])
     double delx = L / N;
     double delt = T / NT;
 
-    // assert(delt <= delx / sqrt(2 * (pow(u, 2) + pow(v, 2))));
+    assert(delt <= delx / sqrt(2 * (pow(u, 2) + pow(v, 2))));
     
     double x0 = L / 2;
     double y0 = x0;
