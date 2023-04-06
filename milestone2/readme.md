@@ -1,1 +1,0 @@
-### Scaling graphs and write up are in M2 Graphs and Docs.pdf
